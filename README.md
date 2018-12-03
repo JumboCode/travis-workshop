@@ -17,6 +17,7 @@ direction outline... todo in general but the basics:
 5. let's investigate a little bit... ahhh the math is off, okie dokie time to fix it:
 
 6. make a new branch...
+```git checkout -b [name].test-fix```
 
 7. make the appropraite changes... 
 
@@ -25,7 +26,10 @@ direction outline... todo in general but the basics:
  -> boo it didnt work go fix it again 
  
 10. push brnach
+```git push```
 
-11. see that travis is a happy travis now yay
+11. Look at your brach on Github
 
-12. booom u done go high five spenc
+12.. see that travis is a happy travis now yay
+
+13.. booom u done go high five spenc
