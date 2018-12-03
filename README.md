@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/JumboCode/travis-workshop.svg?branch=master)](https://travis-ci.com/JumboCode/travis-workshop)
 
 
-direction outline... todo in general but the basics:
+directions!
 
 1. look at that build status. it red and makes us sad. lets make it green so we are happy coders
 
@@ -24,12 +24,19 @@ direction outline... todo in general but the basics:
 8. run tests locally
  -> yay it works 
  -> boo it didnt work go fix it again 
- 
-10. push brnach
+ ```python test.py```
+
+9. Add your changes:
+  ``` git add [files you changed]```
+  
+10. Commit your Changes:
+  ``` git commit -m [message]``` 
+
+11. push brnach
 ```git push```
 
-11. Look at your brach on Github
+12. Look at your brach on Github
 
-12.. see that travis is a happy travis now yay
+13.. see that travis is a happy travis now yay
 
-13.. booom u done go high five spenc
+14.. booom u done go high five spence
