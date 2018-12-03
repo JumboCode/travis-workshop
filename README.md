@@ -5,9 +5,7 @@
 1. look at that build status. it red and makes us sad. lets make it green so we are happy coders!
 
 2. aw shucks but why is it a sad travis status? let's investigate!
-  * click the status
-  
-![build-failing](./img/build-failing.png)  
+  * click the status (that thing that says ```build failed``` above this
 
 3. hmmmm looks like a build failed 
 ![travis-fail](./img/travis-fail.png)
