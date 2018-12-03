@@ -9,11 +9,17 @@ direction outline... todo in general but the basics:
 
 2. aw shucks but why is it a sad travis stauts? let's investigate!
   -> click the status
+  
 ![build-failing](./img/build-failing.png)  
+
 3. hmmmm looks like a build failed 
+
 ![travis-fail](./img/travis-fail.png)
+
 4. oh okay it failed cause that test failed 
+
 ![travis-log](./img/travis-log.png)
+
 5. let's investigate a little bit... ahhh the math is off, okie dokie time to fix it:
 
 6. make a new branch...
