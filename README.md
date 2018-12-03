@@ -11,8 +11,6 @@
 
 3. hmmmm looks like a build failed 
 
-![travis-fail](./img/travis-fail.png)
-
 4. oh okay - it failed because that test failed 
 
 ![travis-log](./img/travis-log.png)
