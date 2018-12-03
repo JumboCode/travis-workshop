@@ -23,7 +23,7 @@ class TestMathMethods(unittest.TestCase):
 
     def test_divide(self):
         result = divide(3, 3)
-        self.assertEqual(result, 1)
+        self.assertEqual(result, 0)
 
 
 if __name__ == '__main__':
