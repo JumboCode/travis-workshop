@@ -5,7 +5,7 @@
 import unittest
 
 # import functions from other file
-from math import add, minus, divide, multiple
+from math1 import add, minus, divide, multiple
 
 class TestMathMethods(unittest.TestCase):
 
@@ -23,7 +23,7 @@ class TestMathMethods(unittest.TestCase):
 
     def test_divide(self):
         result = divide(3, 3)
-        self.assertEqual(result, 0)
+        self.assertEqual(result, 1)
 
 
 if __name__ == '__main__':
