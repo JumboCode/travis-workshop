@@ -5,7 +5,7 @@
 import unittest
 
 # import functions from other file
-from math1 import add, minus, divide, multiple
+from math import add, minus, divide, multiple
 
 class TestMathMethods(unittest.TestCase):
 
